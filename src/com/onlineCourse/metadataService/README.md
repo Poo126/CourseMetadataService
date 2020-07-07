@@ -24,5 +24,5 @@ $ ./metadataService
 curl --request POST --url http://localhost:3000/api/v1/courses --header 'content-type: application/json' --data 
 '{ 
   "name": "golang",
-  "authorId": "suveetha",
+  "authorId": "suveetha kamatchi kr",
 "version": "1", "state": "provisioned"}'
