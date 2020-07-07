@@ -4,7 +4,7 @@ This is simple example **gorilla/mux**.
 
 ## Install and Run
 ```shell
-$ go get github.com/kkamdooong/go-restful-api-example
+$ go get github.com/Poo126/src/com/onlineCourse/metadataService
 
 $ cd $GOPATH/src/github.com/Poo126/src/com/onlineCourse/metadataService
 $ go build
